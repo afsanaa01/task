@@ -1,0 +1,10 @@
+body {
+    background-color: black !important;
+}
+#time {
+    color: white !important;
+    font-size: 200px;
+    font-weight: bolder;
+    padding-top: 12% ;
+}
+
